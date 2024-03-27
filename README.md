@@ -1,1 +1,2 @@
-https://sshaiv-portfolio3692.netlify.app/#home
+CLick Here to View
+https://sshaiv-portfolio3692.netlify.app/
